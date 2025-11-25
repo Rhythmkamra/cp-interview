@@ -29,4 +29,3 @@
 // E = 2
 // Use 3rd exercise 1 time.
 // Hence, total exercise done 1.
-include <bits/stdc++.h>
